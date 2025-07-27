@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-This project shows you how to **build a basic math quiz game** using **Python** and run it on a **Raspberry Pi 5**. Instead of buying flash cards, you can generate your own with AI—perfect for learners who want to practice addition and subtraction *and* coders who want to sharpen their skills.
+This project shows you how to **build a basic math quiz games** using **Python** and run it on a **Raspberry Pi 5**. Instead of buying flash cards, you can generate your own with AI—perfect for learners who want to practice addition and subtraction *and* coders who want to sharpen their skills.
 
 ### Who This Is For
 - Beginners learning Python  
@@ -16,17 +16,17 @@ This project shows you how to **build a basic math quiz game** using **Python** 
 
 ---
 
-## Watch the Full Tutorial
+## What You Need
 
-[YouTube Video: How to Code Flash Cards with AI + Raspberry Pi](https://youtu.be/4uZsSu_TIrA)  
-Learn how I use Copilot (or any free AI like ChatGPT, Gemini, Claude, or Perplexity) to build this quiz step-by-step.
+- [Raspberry Pi 5 (or any Raspberry Pi running Raspberry Pi OS)](https://www.raspberrypi.com/products/raspberry-pi-5/)  
+- Python 3 & Geany (pre-installed)  
+- [Free Copilot account](https://copilot.microsoft.com/)
+- An internet connection for AI assistance
+- Alternatively: Any computer with Python installed
 
 ---
 
-## What You Need
+## Math Quizzes with Copilot 
 
-- Raspberry Pi 5 (or any Raspberry Pi running Raspberry Pi OS)  
-- Python 3 (pre-installed)  
-- Geany
-- An internet connection for AI assistance
-- Alternatively: Any computer with Python installed
+[YouTube Video: How to Code Flash Cards with AI + Raspberry Pi](https://youtu.be/4uZsSu_TIrA)  
+[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Copilot)
