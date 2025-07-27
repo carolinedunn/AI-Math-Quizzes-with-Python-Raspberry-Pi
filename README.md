@@ -18,7 +18,7 @@ This project shows you how to **build a basic math quiz game** using **Python** 
 
 ## Watch the Full Tutorial
 
-[YouTube Video: How to Code Flash Cards with AI + Raspberry Pi](#)  
+[YouTube Video: How to Code Flash Cards with AI + Raspberry Pi](https://youtu.be/4uZsSu_TIrA)  
 Learn how I use Copilot (or any free AI like ChatGPT, Gemini, Claude, or Perplexity) to build this quiz step-by-step.
 
 ---
