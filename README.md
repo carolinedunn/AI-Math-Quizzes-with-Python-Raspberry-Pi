@@ -20,7 +20,6 @@ This project shows you how to **build a basic math quiz games** using **Python**
 
 - [Raspberry Pi 5 (or any Raspberry Pi running Raspberry Pi OS)](https://www.raspberrypi.com/products/raspberry-pi-5/)  
 - Python 3 & Geany (pre-installed)  
-- [Free Copilot account](https://copilot.microsoft.com/)
 - An internet connection for AI assistance
 - Alternatively: Any computer with Python installed
 
@@ -28,19 +27,21 @@ This project shows you how to **build a basic math quiz games** using **Python**
 
 ## Math Quizzes with Copilot 
 
-[YouTube Video: How to Code Flash Cards with AI + Raspberry Pi](https://youtu.be/4uZsSu_TIrA)  
-[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Copilot)
+- [YouTube Video: How to Code Flash Cards with AI + Raspberry Pi](https://youtu.be/4uZsSu_TIrA)  
+- [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Copilot)
+- [Free Copilot account](https://copilot.microsoft.com/)
 
 ---
 
 ## Algebra Quizzes with Gemini 
 
-[YouTube Video: How to Create an Algebra Quiz with Gemini and Raspberry Pi](https://youtu.be/MTJJrHY-VMM)  
-[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Gemini/Algebra)
-
+- [YouTube Video: How to Create an Algebra Quiz with Gemini and Raspberry Pi](https://youtu.be/MTJJrHY-VMM)  
+- [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Gemini/Algebra)
+- [Free Gemini account](https://gemini.google.com/)
 ---
 
 ## PEDMAS Quizzes with ChatGPT 
 
-[YouTube Video: Build a PEMDAS Quiz with ChatGPT and Raspberry Pi](https://youtu.be/KQl357GI_ZI)  
-[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/ChatGPT/Math)
+- [YouTube Video: Build a PEMDAS Quiz with ChatGPT and Raspberry Pi](https://youtu.be/KQl357GI_ZI)  
+- [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/ChatGPT/Math)
+- [Free ChatGPT account](https://chatgpt.com/)
