@@ -36,11 +36,11 @@ This project shows you how to **build a basic math quiz games** using **Python**
 ## Algebra Quizzes with Gemini 
 
 [YouTube Video: How to Create an Algebra Quiz with Gemini and Raspberry Pi](https://youtu.be/MTJJrHY-VMM)  
-[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Gemini)
+[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Gemini/Algebra)
 
 ---
 
 ## PEDMAS Quizzes with ChatGPT 
 
 [YouTube Video: Build a PEMDAS Quiz with ChatGPT and Raspberry Pi](https://youtu.be/KQl357GI_ZI)  
-[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/ChatGPT)
+[Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/ChatGPT/Math)
