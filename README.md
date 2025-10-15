@@ -38,6 +38,7 @@ This project shows you how to **build a basic math quiz games** using **Python**
 - [YouTube Video: How to Create an Algebra Quiz with Gemini and Raspberry Pi](https://youtu.be/MTJJrHY-VMM)  
 - [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Gemini/Algebra)
 - [Free Gemini account](https://gemini.google.com/)
+
 ---
 
 ## PEDMAS Quizzes with ChatGPT 
@@ -45,3 +46,35 @@ This project shows you how to **build a basic math quiz games** using **Python**
 - [YouTube Video: Build a PEMDAS Quiz with ChatGPT and Raspberry Pi](https://youtu.be/KQl357GI_ZI)  
 - [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/ChatGPT/Math)
 - [Free ChatGPT account](https://chatgpt.com/)
+
+---
+
+## State Capitals Quiz with Copilot 
+
+- [YouTube Video: How to Create a State Capitals Quiz with Copilot and Raspberry Pi](https://youtu.be/Q4mSkObhoZQ)  
+- [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Copilot)
+- [Free Copilot account](https://copilot.microsoft.com/)
+
+---
+
+## World Capitals Quiz with Gemini 
+
+- [YouTube Video: How to Create a World Capitals Quiz with Gemini and Raspberry Pi](https://youtu.be/O6f3sP56F-Q)  
+- [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/Gemini/Algebra)
+- [Free Gemini account](https://gemini.google.com/)
+
+---
+
+## Presidential Trivia Game with Gemini 
+
+- [YouTube Video: Code a Presidential Trivia Game with ChatGPT and Raspberry Pi](https://youtu.be/-KIvP3DyXyc)  
+- [Access files from the video here](https://github.com/carolinedunn/AI-Math-Quizzes-with-Python-Raspberry-Pi/tree/main/ChatGPT/Math)
+- [Free ChatGPT account](https://chatgpt.com/)
+
+---
+
+## 📚 Author
+Created by **Caroline Dunn**  
+- 🌐 [winningintech.com](https://winningintech.com/)  
+- 📺 [YouTube.com/Caroline](https://www.youtube.com/caroline)  
+- 📘 [A Woman’s Guide to Winning in Tech](https://amzn.to/3YxHVO7)  
